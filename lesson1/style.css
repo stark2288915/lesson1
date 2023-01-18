@@ -1,0 +1,26 @@
+img{
+    width: 200px;
+}
+p{
+    background: pink;
+    color: brown;
+}
+li{
+    background: chartreuse;
+    color: rebeccapurple;
+}
+ul{
+    background: cadetblue;
+    color: black;
+}
+h1{
+    background: aquamarine;
+    color: red;
+}
+h2{
+    background: crimson;
+}
+a{
+    background: silver;
+    color: blue;
+}
