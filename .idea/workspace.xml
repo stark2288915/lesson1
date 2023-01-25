@@ -7,7 +7,9 @@
     <list default="true" id="87782624-eb64-43a4-b096-95844e0edaf8" name="Changes" comment="lesson 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson3/cards1.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/cards1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/cards2.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/cards2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson3/style/style1.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/style/style1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/style/style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/style/style2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +85,7 @@
       <workItem from="1674482314140" duration="4140000" />
       <workItem from="1674637122544" duration="2567000" />
       <workItem from="1674644199484" duration="373000" />
+      <workItem from="1674659749317" duration="6325000" />
     </task>
     <task id="LOCAL-00001" summary="Розмітка та стилі для тегів, вирви око.">
       <created>1674072303145</created>
