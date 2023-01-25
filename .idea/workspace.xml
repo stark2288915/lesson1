@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87782624-eb64-43a4-b096-95844e0edaf8" name="Changes" comment="Розмітка та стилі для тегів, вирви око.">
-      <change afterPath="$PROJECT_DIR$/lesson2/page2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/style2.css" afterDir="false" />
+    <list default="true" id="87782624-eb64-43a4-b096-95844e0edaf8" name="Changes" comment="lesson 2">
+      <change afterPath="$PROJECT_DIR$/lesson3/cards1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/cards2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/style/style1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/style/style2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/bluebox.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +26,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="ab9e2d6b-ac88-48fb-ba22-63974e54e7a2" />
+        <option name="url" value="https://github.com/stark2288915/lesson1.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -54,6 +67,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\itellijProjects\dec-2022-html\lesson3\style" />
       <recent name="E:\itellijProjects\dec-2022-html\lesson1\css" />
     </key>
   </component>
@@ -68,7 +82,8 @@
       <workItem from="1674034335483" duration="1479000" />
       <workItem from="1674069253323" duration="3650000" />
       <workItem from="1674410731870" duration="4304000" />
-      <workItem from="1674482314140" duration="3610000" />
+      <workItem from="1674482314140" duration="4140000" />
+      <workItem from="1674637122544" duration="2372000" />
     </task>
     <task id="LOCAL-00001" summary="Розмітка та стилі для тегів, вирви око.">
       <created>1674072303145</created>
@@ -112,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674415554205</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="lesson 2">
+      <created>1674486152314</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674486152314</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +142,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Розмітка та стилі для тегів, вирви око." />
-    <option name="LAST_COMMIT_MESSAGE" value="Розмітка та стилі для тегів, вирви око." />
+    <MESSAGE value="lesson 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 2" />
   </component>
 </project>
